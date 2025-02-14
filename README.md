@@ -1,7 +1,7 @@
 <h1 align="center">SOBRE MIM JAIBSON</h1>
 <h3 align="center">Olá sou Dev full-Stack </h3>
 
-- Olá eu sou Jaibson e gosto de programar e criar páginas web [Sobre Mim](Guii.vercel.app)
+- Olá eu sou Jaibson e gosto de programar e criar páginas web [Sobre Mim]()
 
 - 🌱 Atualmente estou aprendendo **Cursos Full-Stack e Analise e Desenvolvimento de Sistema**
 
