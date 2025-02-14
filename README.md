@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Cursos Full-Stack e Analise e Desenvolvimento de Sistema**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://github.com/JaibsonMatias" target="blank">gui</a>
+- 👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://github.com/JaibsonMatias" target="blank">aqui</a>
 
 - 📫 Como entrar em contato comigo **Matiasjaibson@outlook.com**
 
